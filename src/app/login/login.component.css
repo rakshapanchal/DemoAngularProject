@@ -1,0 +1,33 @@
+.lbl-err {
+    color: red;
+}
+
+.size {
+    text-align: center;
+    width: 50px;
+}
+
+.btn-login {
+    color: white;
+    background-color: orange;
+    padding: 1.0rem 2rem;
+    font-size: 1rem;
+    font-weight: 550;
+    font-family: Poppins;
+    border-radius: 50px;
+    border-color: orange;
+}
+
+.checkbox {
+    border-color: white;
+    color: #575962;
+}
+
+.top {
+    background-image: url('../../assets/app/media/img/bg/bg-3.jpg');
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+}
